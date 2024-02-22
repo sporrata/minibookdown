@@ -1,11 +1,11 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Stephanie's Mini Bookdown"
+author: "Stephanie Porrata"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
+# Welcome to my Mini Bookdown!
 
-Hello, world!!!
+I am creating this Mini Bookdown for the Git and Github for Librarians Course.
